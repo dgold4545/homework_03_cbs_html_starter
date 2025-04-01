@@ -1,0 +1,31 @@
+.social-menu {
+  background-color: gold;
+  padding: 30px;
+}
+
+.social-menu__item {
+  display: inline-block;
+  border: 1px solid black;
+  margin-right: 30px;
+}
+.social-menu__item:last-child {
+  margin-right: 0;
+}
+
+.social-menu__item.facebook-color {
+  background-color: blue;
+}
+.social-menu__item.youtube-color {
+  background-color: red;
+}
+.social-menu__item.instagram-color {
+  background-color: pink;
+}
+.social-menu__item.twitter-color {
+  background-color: aqua;
+}
+
+.social-menu__link {
+  display: inline-block;
+  padding: 10px;
+}
