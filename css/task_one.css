@@ -1,0 +1,15 @@
+.menu__list {
+  background-color: blue;
+}
+
+.menu__item {
+  display: inline-block;
+}
+
+.menu__link {
+  color: white;
+  text-transform: capitalize;
+  display: inline-block;
+  padding: 15px 10px;
+  border-right: 2px solid #000;
+}
