@@ -1,0 +1,12 @@
+.task-two {
+  border: 3px solid black;
+  padding: 0 10px;
+  margin: 10px;
+}
+
+.task-two__description {
+  width: 250px;
+  background-color: rgb(198, 197, 197);
+  padding: 5px;
+  margin-left: auto;
+}
